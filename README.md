@@ -38,7 +38,7 @@ with the project, follow these steps:
 
 6. Run the main script:
     ```sh
-    python Main.py
+    python gif_reaction.py
     ```
 
 7. You'll be prompted to enter your Clubhouse session ID. You can find this by logging into [Clubhouse](https://www.clubhouse.com/signin), opening the Developer Console (F12), and finding the session ID in the Network tab after refreshing the page.
