@@ -21,12 +21,12 @@ with the project, follow these steps:
 
 3. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/clubhouse-gif-reaction.git
+    git clone https://github.com/peacepy/fig.git
     ```
 
 4. Navigate to the project directory:
     ```sh
-    cd clubhouse-gif-reaction/dist
+    cd fig/dist
     ```
 
 5. Install dependencies:
