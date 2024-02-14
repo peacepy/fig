@@ -41,7 +41,7 @@ with the project, follow these steps:
     python gif_reaction.py
     ```
 
-7. You'll be prompted to enter your Clubhouse session ID. You can find this by logging into [Clubhouse](https://www.clubhouse.com/signin), opening the Developer Console (F12), and finding the session ID in the Network tab after refreshing the page.
+7. You'll be prompted to enter your Clubhouse session ID. You can find this by logging into [Clubhouse](https://www.clubhouse.com/signin), opening the Developer Console (F12), and finding the session ID in the application tab after refreshing the page.
 
 8. Once you've entered your session ID, the script will start running, allowing you to react to Clubhouse rooms with GIFs!
 
