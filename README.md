@@ -26,7 +26,7 @@ with the project, follow these steps:
 
 4. Navigate to the project directory:
     ```sh
-    cd clubhouse-gif-reaction
+    cd clubhouse-gif-reaction/dist
     ```
 
 5. Install dependencies:
